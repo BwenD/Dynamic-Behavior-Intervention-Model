@@ -30,7 +30,7 @@ Fielding, Kelly S., Rachel McDonald, and Winnifred R. Louis. "Theory of planned 
 
 (3) Then, TPB can be calculated by the structural equation model (SEM) in AMOS software:
 
-Byrne, B. M. (2013). Structural Equation Modeling with AMOS: Basic Concepts, Applications, and Programming. Routledge. https://doi.org/10.4324/9781410600219
+Byrne, B. M. (2013). Structural Equation Modeling with AMOS: Basic Concepts, Applications, and Programming. Routledge.
 
 However, for the qualification of DBIM, it is not that easy:
 
